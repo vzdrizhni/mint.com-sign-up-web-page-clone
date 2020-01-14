@@ -1,3 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #ECEEF1;
+    font-family: Helvetica, sans-serif;
+}
+
 header {
     width: 100%;
     height: 60px;
@@ -6,6 +17,7 @@ header {
 .sign-in  {
     float: right;
     margin-right: 30px;
+    margin-top: 10px;
 }
 
 .sign-in small  {
@@ -13,7 +25,6 @@ header {
     display: block;
     margin-right: 8px;
     text-align: right;
-    font-family: Helvetica, sans-serif;
     font-size: 13px;
 }
 
@@ -21,7 +32,7 @@ header {
     float: right;
     padding: 9px 18px;
     font-size: 15px;
-    border-radius: 3px;
+    border-radius: 5px;
     background-color: #0077c5;
     border: none;
     color: white;
@@ -33,4 +44,11 @@ header {
 
 .second-line {
     margin-top: 5px;
+}
+
+.logo img{
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-top: 15px;
 }
