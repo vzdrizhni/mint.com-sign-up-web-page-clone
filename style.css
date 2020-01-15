@@ -145,3 +145,29 @@ form button{
     font-size: 10px;
 }
 
+footer {
+    margin-left: 28%;
+    width: 46%;
+    margin-top: 20px;    
+    text-align: center;
+}
+
+.legal  {
+    padding: 5px;
+    font-size: 12px;       
+}
+
+span a {
+    padding-right: 10px;
+    text-decoration: none;
+    color: black;  
+}
+
+.legal a:hover {
+    text-decoration: underline;
+}
+
+.inc {      
+    font-size: 12px;      
+}
+
