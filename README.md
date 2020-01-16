@@ -14,7 +14,7 @@ It shows you a static clone of the mint's sign up page.
 #### and deployed to Raw Githack
 
 ## Live Demo
-[Live Demo](https://rawcdn.githack.com/vzdrizhni/mint.com-sign-up-web-page-clone/bdc3e5a28c1e078ea3fe4bc92859ec503db3be74/index.html
+[Live Demo](https://rawcdn.githack.com/vzdrizhni/mint.com-sign-up-web-page-clone/275a60079cdc344aae8d716cb419e70b661eb63b/index.html
 )
 
 ## 🤝 Contributing
